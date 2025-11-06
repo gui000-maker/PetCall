@@ -3,4 +3,6 @@
     <string name="chame_seu_pet">Chame seu Pet!</string>
     <string name="gato">Gato</string>
     <string name="cachorro">Cachorro</string>
+    <string name="parar">Parar</string>
+    <string name="prossiga">Prossiga</string>
 </resources>
